@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-jimmy",
+  "version": "0.0.1",
+  "description": "Jimmy Huang eslint config",
+  "main": "index.js",
+  "author": "Jimmy Huang <victor0801x@gmail.com>",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor0801x/eslint-config-jimmy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/victor0801x/eslint-config-jimmy/issues"
+  },
+  "homepage": "https://github.com/victor0801x/eslint-config-jimmy#readme",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=7",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "release-it": "^14.3.0"
+  }
+}
