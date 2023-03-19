@@ -11,7 +11,7 @@ module.exports = {
     'standard',
     'eslint:recommended',
     'plugin:import/errors',
-    'plugin:node/recommended',
+    'plugin:n/recommended',
   ],
   rules: {
     'max-len': ['error', {
