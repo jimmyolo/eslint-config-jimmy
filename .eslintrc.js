@@ -5,7 +5,7 @@ module.exports = {
     es6: true,
   },
   parserOptions: {
-    ecmaVersion: 'latest'
+    ecmaVersion: 'latest',
   },
   extends: [
     'standard',
